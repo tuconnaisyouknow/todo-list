@@ -1,3 +1,3 @@
-# Admin console web interface
+# Todo list web interface
 
-This project is a web interface to administrate docker environement and WireGuard VPN clients.
+This project is a web interface to create a todo list written in React.
